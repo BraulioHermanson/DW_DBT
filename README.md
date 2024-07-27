@@ -6,3 +6,4 @@
 
 #### LINKS
 [Postgress Render](https://dashboard.render.com/)
+[DBT Platforms](https://docs.getdbt.com/docs/trusted-adapters)
